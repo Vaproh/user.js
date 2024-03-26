@@ -1,0 +1,11 @@
+1. Better Netflix
+2. Clear Cache
+3. Clear URLS
+4. Dark Reader
+5. Dcentraleyes
+6. enchanced-h264ify
+7. Proton Pass: Password Manager
+8. Skip netflix intro
+9. Tabliss
+10. uBlock Origin
+11. Windscribe: VPN
